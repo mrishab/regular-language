@@ -11,7 +11,7 @@
         "6. (R₁*)"
     ],
     "header_title": "Regular Expression Practice Lab",
-    "header_subtitle": "Alphabet Σ ≡ {a - b}",
+    "header_subtitle": "Alphabet Σ ≡ {a,b}",
     "section_1_heading": "1. Define your Regular Expression",
     "section_1_subheading": "Enter R:",
     "section_1_input_placeholder": "e.g., ((a ∪ b* ◦ a)",
